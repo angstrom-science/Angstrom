@@ -1,2 +1,2 @@
-# Angstrom
+# Ångström
 Ångström
