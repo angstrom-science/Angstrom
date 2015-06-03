@@ -1,5 +1,5 @@
 # Ångström
-Ångström: *A future generation precise web-application framework.*
+***Ångström***: *A future generation precise web-application framework.*
 
 ### License
 Ångström is created and published under the [Apache License](https://github.com/angstrom-science/Angstrom/blob/master/LICENSE) [v2.0].
