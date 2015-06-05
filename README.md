@@ -2,8 +2,8 @@
 ***Ångström***: *A future generation precise web-application framework.*
 
 [![GitHub license](https://img.shields.io/badge/License-Apache-orange.svg)](https://github.com/angstrom-science/Angstrom/blob/master/LICENSE)
-[![GitHub license](https://img.shields.io/badge/Made%20with-CoffeeScript-ff69b4.svg)](http://coffeescript.org/)
-
+[![CoffeeScript](https://img.shields.io/badge/Made%20with-CoffeeScript-ff69b4.svg)](http://coffeescript.org/)
+[![LESS](https://img.shields.io/badge/LESS-2.1.1-blue.svg)](http://lesscss.org/)
 
 
 ### License
